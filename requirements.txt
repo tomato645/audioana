@@ -1,1 +1,3 @@
-audio-recorder-streamlit
+numpy
+sounddevice
+matplotlib
