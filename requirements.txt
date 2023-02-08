@@ -1,5 +1,3 @@
 numpy
-libasound-dev
-libportaudio2
 sounddevice
 matplotlib
